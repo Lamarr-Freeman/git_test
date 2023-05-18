@@ -1,1 +1,0 @@
-hello world this is is my firs time using nano text editor on linux!!
